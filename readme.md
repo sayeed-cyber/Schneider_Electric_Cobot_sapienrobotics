@@ -1,4 +1,4 @@
-```markdown
+
 # Schneider Electric Cobot Project
 
 This project involves training a Schneider Electric collaborative robotic arm to detect and pick up MCBs (Miniature Circuit Breakers) and trays. Below is an overview of the workflow and the technologies used.
@@ -60,6 +60,3 @@ The trained YOLOv8 Nano model successfully detected MCBs and trays with high acc
 
 Special thanks to Sapienrobotics.ai and the team for giving me the Opportunity to work on this project.
 
----
-
-```
